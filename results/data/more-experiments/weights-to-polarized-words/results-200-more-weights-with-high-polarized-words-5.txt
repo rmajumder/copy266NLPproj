@@ -1,0 +1,217 @@
+
+-------------------------------------Iter0--------------------------------------
+train loss=35.684446, dev loss=19.374483, dev acc=0.2383, step=105
+test acc=0.2435, test precision=0.3681, test recall=0.4275, test f1=0.2169
+smalltest acc=0.0000, test precision=0.0000, test recall=0.0000, test f1=0.0000
+max step:0, early stop step:0
+======
+[2, 0, 0, 2, 2, 0, 2]
+[2, 2, 2, 2, 2, 1, 2]
+======
+
+-------------------------------------Iter1--------------------------------------
+train loss=33.703047, dev loss=19.024111, dev acc=0.4772, step=210
+test acc=0.4766, test precision=0.3051, test recall=0.4806, test f1=0.3393
+smalltest acc=0.5714, test precision=0.2222, test recall=0.3333, test f1=0.2667
+max step:0, early stop step:0
+======
+[2, 0, 0, 2, 2, 0, 2]
+[2, 2, 2, 2, 2, 2, 1]
+======
+
+-------------------------------------Iter2--------------------------------------
+train loss=31.876610, dev loss=15.697684, dev acc=0.6834, step=315
+test acc=0.6917, test precision=0.6587, test recall=0.6276, test f1=0.5930
+smalltest acc=0.4286, test precision=0.1667, test recall=0.2500, test f1=0.2000
+max step:0, early stop step:0
+======
+[2, 0, 0, 2, 2, 0, 2]
+[2, 2, 2, 2, 2, 2, 1]
+======
+
+-------------------------------------Iter3--------------------------------------
+train loss=27.307715, dev loss=14.744320, dev acc=0.5410, step=420
+test acc=0.5450, test precision=0.6693, test recall=0.5474, test f1=0.4057
+smalltest acc=0.4286, test precision=0.1667, test recall=0.2500, test f1=0.2000
+max step:0, early stop step:0
+======
+[2, 0, 0, 2, 2, 0, 2]
+[2, 2, 2, 2, 2, 2, 1]
+======
+
+-------------------------------------Iter4--------------------------------------
+train loss=26.331543, dev loss=14.527326, dev acc=0.5461, step=525
+test acc=0.5521, test precision=0.6707, test recall=0.5579, test f1=0.4145
+smalltest acc=0.4286, test precision=0.1667, test recall=0.2500, test f1=0.2000
+max step:0, early stop step:0
+======
+[2, 0, 0, 2, 2, 0, 2]
+[2, 2, 2, 2, 2, 2, 1]
+======
+
+-------------------------------------Iter5--------------------------------------
+train loss=25.776503, dev loss=14.283486, dev acc=0.5741, step=630
+test acc=0.5879, test precision=0.6702, test recall=0.5839, test f1=0.4677
+smalltest acc=0.4286, test precision=0.1667, test recall=0.2500, test f1=0.2000
+max step:0, early stop step:0
+======
+[2, 0, 0, 2, 2, 0, 2]
+[2, 2, 2, 2, 2, 1, 1]
+======
+
+-------------------------------------Iter6--------------------------------------
+train loss=25.464363, dev loss=14.293050, dev acc=0.5663, step=735
+test acc=0.5794, test precision=0.6666, test recall=0.5813, test f1=0.4562
+smalltest acc=0.4286, test precision=0.2000, test recall=0.2500, test f1=0.2222
+max step:1, early stop step:1
+======
+[2, 0, 0, 2, 2, 0, 2]
+[2, 2, 2, 2, 2, 1, 1]
+======
+
+-------------------------------------Iter7--------------------------------------
+train loss=25.197431, dev loss=14.213245, dev acc=0.5764, step=840
+test acc=0.5922, test precision=0.6729, test recall=0.5896, test f1=0.4710
+smalltest acc=0.4286, test precision=0.2000, test recall=0.2500, test f1=0.2222
+max step:1, early stop step:0
+======
+[2, 0, 0, 2, 2, 0, 2]
+[2, 2, 2, 2, 2, 2, 1]
+======
+
+-------------------------------------Iter8--------------------------------------
+train loss=24.915673, dev loss=14.309406, dev acc=0.5896, step=945
+test acc=0.6071, test precision=0.6658, test recall=0.5900, test f1=0.4873
+smalltest acc=0.4286, test precision=0.1667, test recall=0.2500, test f1=0.2000
+max step:1, early stop step:1
+======
+[2, 0, 0, 2, 2, 0, 2]
+[2, 1, 2, 2, 2, 1, 1]
+======
+
+-------------------------------------Iter9--------------------------------------
+train loss=24.781448, dev loss=14.138362, dev acc=0.5987, step=1050
+test acc=0.6138, test precision=0.6766, test recall=0.6147, test f1=0.5070
+smalltest acc=0.4286, test precision=0.2500, test recall=0.2500, test f1=0.2500
+max step:1, early stop step:0
+======
+[2, 0, 0, 2, 2, 0, 2]
+[2, 2, 2, 2, 2, 1, 1]
+======
+
+-------------------------------------Iter10-------------------------------------
+train loss=24.556092, dev loss=14.187393, dev acc=0.6156, step=1155
+test acc=0.6263, test precision=0.6771, test recall=0.6240, test f1=0.5218
+smalltest acc=0.4286, test precision=0.2000, test recall=0.2500, test f1=0.2222
+max step:1, early stop step:1
+======
+[2, 0, 0, 2, 2, 0, 2]
+[2, 1, 2, 2, 2, 1, 1]
+======
+
+-------------------------------------Iter11-------------------------------------
+train loss=24.420811, dev loss=14.228452, dev acc=0.6105, step=1260
+test acc=0.6256, test precision=0.6784, test recall=0.6227, test f1=0.5179
+smalltest acc=0.4286, test precision=0.2500, test recall=0.2500, test f1=0.2500
+max step:2, early stop step:2
+======
+[2, 0, 0, 2, 2, 0, 2]
+[2, 1, 2, 2, 2, 1, 1]
+======
+
+-------------------------------------Iter12-------------------------------------
+train loss=24.286442, dev loss=14.152129, dev acc=0.6271, step=1365
+test acc=0.6432, test precision=0.6793, test recall=0.6288, test f1=0.5360
+smalltest acc=0.4286, test precision=0.2500, test recall=0.2500, test f1=0.2500
+max step:3, early stop step:3
+======
+[2, 0, 0, 2, 2, 0, 2]
+[2, 1, 2, 2, 2, 1, 1]
+======
+
+-------------------------------------Iter13-------------------------------------
+train loss=24.129023, dev loss=14.198959, dev acc=0.6281, step=1470
+test acc=0.6438, test precision=0.6827, test recall=0.6362, test f1=0.5406
+smalltest acc=0.4286, test precision=0.2500, test recall=0.2500, test f1=0.2500
+max step:4, early stop step:4
+======
+[2, 0, 0, 2, 2, 0, 2]
+[2, 1, 2, 2, 2, 1, 1]
+======
+
+-------------------------------------Iter14-------------------------------------
+train loss=24.056554, dev loss=14.105691, dev acc=0.6271, step=1575
+test acc=0.6486, test precision=0.6850, test recall=0.6445, test f1=0.5475
+smalltest acc=0.4286, test precision=0.2500, test recall=0.2500, test f1=0.2500
+max step:4, early stop step:0
+======
+[2, 0, 0, 2, 2, 0, 2]
+[2, 1, 2, 2, 2, 1, 1]
+======
+
+-------------------------------------Iter15-------------------------------------
+train loss=23.908894, dev loss=14.210294, dev acc=0.6493, step=1680
+test acc=0.6671, test precision=0.6879, test recall=0.6514, test f1=0.5653
+smalltest acc=0.4286, test precision=0.2500, test recall=0.2500, test f1=0.2500
+max step:4, early stop step:1
+======
+[2, 0, 0, 2, 2, 0, 2]
+[2, 1, 2, 2, 2, 1, 1]
+======
+
+-------------------------------------Iter16-------------------------------------
+train loss=23.779097, dev loss=14.168523, dev acc=0.6504, step=1785
+test acc=0.6705, test precision=0.6935, test recall=0.6629, test f1=0.5713
+smalltest acc=0.4286, test precision=0.2500, test recall=0.2500, test f1=0.2500
+max step:4, early stop step:2
+======
+[2, 0, 0, 2, 2, 0, 2]
+[2, 1, 2, 2, 2, 1, 1]
+======
+
+-------------------------------------Iter17-------------------------------------
+train loss=23.706391, dev loss=14.078687, dev acc=0.6581, step=1890
+test acc=0.6786, test precision=0.6946, test recall=0.6700, test f1=0.5816
+smalltest acc=0.4286, test precision=0.2500, test recall=0.2500, test f1=0.2500
+max step:4, early stop step:0
+======
+[2, 0, 0, 2, 2, 0, 2]
+[2, 1, 2, 2, 1, 1, 1]
+======
+
+-------------------------------------Iter18-------------------------------------
+train loss=23.622579, dev loss=14.137164, dev acc=0.6622, step=1995
+test acc=0.6830, test precision=0.6994, test recall=0.6782, test f1=0.5883
+smalltest acc=0.2857, test precision=0.2222, test recall=0.1667, test f1=0.1905
+max step:4, early stop step:1
+======
+[2, 0, 0, 2, 2, 0, 2]
+[2, 1, 2, 2, 2, 1, 1]
+======
+
+-------------------------------------Iter19-------------------------------------
+train loss=23.507678, dev loss=14.132721, dev acc=0.6706, step=2100
+test acc=0.6914, test precision=0.6973, test recall=0.6770, test f1=0.5949
+smalltest acc=0.4286, test precision=0.2500, test recall=0.2500, test f1=0.2500
+max step:4, early stop step:2
+======
+[2, 0, 0, 2, 2, 0, 2]
+[2, 1, 2, 2, 2, 1, 1]
+======
+
+-------------------------------------Iter20-------------------------------------
+train loss=23.455355, dev loss=14.124492, dev acc=0.6763, step=2205
+test acc=0.6992, test precision=0.6990, test recall=0.6830, test f1=0.6022
+smalltest acc=0.4286, test precision=0.2500, test recall=0.2500, test f1=0.2500
+max step:4, early stop step:3
+======
+[2, 0, 0, 2, 2, 0, 2]
+[2, 1, 2, 2, 2, 1, 1]
+======
+
+-------------------------------------Iter21-------------------------------------
+train loss=23.425442, dev loss=14.129120, dev acc=0.6824, step=2310
+test acc=0.7035, test precision=0.6973, test recall=0.6853, test f1=0.6078
+smalltest acc=0.4286, test precision=0.2500, test recall=0.2500, test f1=0.2500
+max step:4, early stop step:4
+

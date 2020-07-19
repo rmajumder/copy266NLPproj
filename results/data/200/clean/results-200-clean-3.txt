@@ -1,0 +1,157 @@
+
+
+-------------------------------------Iter0--------------------------------------
+train loss=35.543491, dev loss=19.386739, dev acc=0.2373, step=105
+test acc=0.2266, test precision=0.3608, test recall=0.4193, test f1=0.2048
+smalltest acc=0.0000, test precision=0.0000, test recall=0.0000, test f1=0.0000
+max step:0, early stop step:0
+
+-------------------------------------Iter1--------------------------------------
+train loss=33.706912, dev loss=19.047852, dev acc=0.4313, step=210
+test acc=0.4071, test precision=0.3106, test recall=0.4618, test f1=0.3128
+smalltest acc=0.2857, test precision=0.1667, test recall=0.1667, test f1=0.1667
+max step:0, early stop step:0
+
+-------------------------------------Iter2--------------------------------------
+train loss=31.705304, dev loss=15.794898, dev acc=0.4857, step=315
+test acc=0.4705, test precision=0.3366, test recall=0.5041, test f1=0.3509
+smalltest acc=0.2857, test precision=0.1667, test recall=0.1667, test f1=0.1667
+max step:0, early stop step:0
+
+-------------------------------------Iter3--------------------------------------
+train loss=27.445868, dev loss=14.715190, dev acc=0.5326, step=420
+test acc=0.5245, test precision=0.3438, test recall=0.5282, test f1=0.3754
+smalltest acc=0.4286, test precision=0.1667, test recall=0.2500, test f1=0.2000
+max step:0, early stop step:0
+
+-------------------------------------Iter4--------------------------------------
+train loss=26.232592, dev loss=14.562287, dev acc=0.5400, step=525
+test acc=0.5325, test precision=0.6826, test recall=0.5379, test f1=0.3850
+smalltest acc=0.4286, test precision=0.2000, test recall=0.2500, test f1=0.2222
+max step:0, early stop step:0
+
+-------------------------------------Iter5--------------------------------------
+train loss=25.656148, dev loss=14.342346, dev acc=0.5579, step=630
+test acc=0.5538, test precision=0.6817, test recall=0.5591, test f1=0.4203
+smalltest acc=0.4286, test precision=0.2000, test recall=0.2500, test f1=0.2222
+max step:0, early stop step:0
+
+-------------------------------------Iter6--------------------------------------
+train loss=25.363896, dev loss=14.213798, dev acc=0.5677, step=735
+test acc=0.5653, test precision=0.6701, test recall=0.5693, test f1=0.4379
+smalltest acc=0.4286, test precision=0.2000, test recall=0.2500, test f1=0.2222
+max step:0, early stop step:0
+
+-------------------------------------Iter7--------------------------------------
+train loss=25.050110, dev loss=14.281209, dev acc=0.5724, step=840
+test acc=0.5669, test precision=0.6576, test recall=0.5715, test f1=0.4400
+smalltest acc=0.2857, test precision=0.1667, test recall=0.1667, test f1=0.1667
+max step:0, early stop step:0
+
+-------------------------------------Iter8--------------------------------------
+train loss=24.818014, dev loss=14.095568, dev acc=0.5771, step=945
+test acc=0.5717, test precision=0.6601, test recall=0.5791, test f1=0.4470
+smalltest acc=0.2857, test precision=0.1667, test recall=0.1667, test f1=0.1667
+max step:0, early stop step:0
+
+-------------------------------------Iter9--------------------------------------
+train loss=24.591068, dev loss=14.269812, dev acc=0.5829, step=1050
+test acc=0.5750, test precision=0.6528, test recall=0.5764, test f1=0.4466
+smalltest acc=0.4286, test precision=0.2000, test recall=0.2500, test f1=0.2222
+max step:0, early stop step:0
+
+-------------------------------------Iter10-------------------------------------
+train loss=24.431470, dev loss=14.273113, dev acc=0.5899, step=1155
+test acc=0.5838, test precision=0.6605, test recall=0.5884, test f1=0.4605
+smalltest acc=0.2857, test precision=0.1667, test recall=0.1667, test f1=0.1667
+max step:0, early stop step:0
+
+-------------------------------------Iter11-------------------------------------
+train loss=24.246417, dev loss=14.142232, dev acc=0.6291, step=1260
+test acc=0.6206, test precision=0.6624, test recall=0.6066, test f1=0.5071
+smalltest acc=0.4286, test precision=0.2000, test recall=0.2500, test f1=0.2222
+max step:0, early stop step:0
+
+-------------------------------------Iter12-------------------------------------
+train loss=24.100341, dev loss=14.122791, dev acc=0.6267, step=1365
+test acc=0.6256, test precision=0.6675, test recall=0.6126, test f1=0.5136
+smalltest acc=0.2857, test precision=0.1667, test recall=0.1667, test f1=0.1667
+max step:1, early stop step:1
+
+-------------------------------------Iter13-------------------------------------
+train loss=23.919030, dev loss=14.292342, dev acc=0.6180, step=1470
+test acc=0.6101, test precision=0.6686, test recall=0.6130, test f1=0.4995
+smalltest acc=0.2857, test precision=0.1667, test recall=0.1667, test f1=0.1667
+max step:2, early stop step:2
+
+-------------------------------------Iter14-------------------------------------
+train loss=23.822301, dev loss=14.132770, dev acc=0.6699, step=1575
+test acc=0.6627, test precision=0.6713, test recall=0.6331, test f1=0.5548
+smalltest acc=0.4286, test precision=0.2000, test recall=0.2500, test f1=0.2222
+max step:2, early stop step:0
+
+-------------------------------------Iter15-------------------------------------
+train loss=23.696866, dev loss=14.132114, dev acc=0.6615, step=1680
+test acc=0.6543, test precision=0.6747, test recall=0.6387, test f1=0.5489
+smalltest acc=0.2857, test precision=0.1667, test recall=0.1667, test f1=0.1667
+max step:2, early stop step:1
+
+-------------------------------------Iter16-------------------------------------
+train loss=23.555536, dev loss=14.156680, dev acc=0.6777, step=1785
+test acc=0.6705, test precision=0.6798, test recall=0.6520, test f1=0.5679
+smalltest acc=0.2857, test precision=0.1667, test recall=0.1667, test f1=0.1667
+max step:2, early stop step:0
+
+-------------------------------------Iter17-------------------------------------
+train loss=23.555229, dev loss=14.103144, dev acc=0.6936, step=1890
+test acc=0.6816, test precision=0.6766, test recall=0.6532, test f1=0.5774
+smalltest acc=0.4286, test precision=0.1667, test recall=0.2500, test f1=0.2000
+max step:2, early stop step:0
+
+-------------------------------------Iter18-------------------------------------
+train loss=23.364217, dev loss=14.274008, dev acc=0.6925, step=1995
+test acc=0.6880, test precision=0.6817, test recall=0.6591, test f1=0.5835
+smalltest acc=0.4286, test precision=0.1667, test recall=0.2500, test f1=0.2000
+max step:2, early stop step:1
+
+-------------------------------------Iter19-------------------------------------
+train loss=23.239893, dev loss=14.250854, dev acc=0.6993, step=2100
+test acc=0.6975, test precision=0.6894, test recall=0.6753, test f1=0.5960
+smalltest acc=0.4286, test precision=0.1667, test recall=0.2500, test f1=0.2000
+max step:2, early stop step:0
+
+-------------------------------------Iter20-------------------------------------
+train loss=23.165361, dev loss=14.115598, dev acc=0.7368, step=2205
+test acc=0.7417, test precision=0.6946, test recall=0.6972, test f1=0.6386
+smalltest acc=0.4286, test precision=0.1667, test recall=0.2500, test f1=0.2000
+max step:2, early stop step:0
+
+-------------------------------------Iter21-------------------------------------
+train loss=23.098584, dev loss=14.026125, dev acc=0.7452, step=2310
+test acc=0.7524, test precision=0.7048, test recall=0.7159, test f1=0.6538
+smalltest acc=0.4286, test precision=0.1667, test recall=0.2500, test f1=0.2000
+max step:2, early stop step:0
+
+-------------------------------------Iter22-------------------------------------
+train loss=23.049865, dev loss=14.039603, dev acc=0.7455, step=2415
+test acc=0.7558, test precision=0.7056, test recall=0.7195, test f1=0.6573
+smalltest acc=0.4286, test precision=0.1667, test recall=0.2500, test f1=0.2000
+max step:2, early stop step:0
+
+-------------------------------------Iter23-------------------------------------
+train loss=22.965170, dev loss=14.073357, dev acc=0.7769, step=2520
+test acc=0.7862, test precision=0.7108, test recall=0.7316, test f1=0.6834
+smalltest acc=0.4286, test precision=0.2500, test recall=0.3750, test f1=0.3000
+max step:2, early stop step:0
+
+-------------------------------------Iter24-------------------------------------
+train loss=22.857872, dev loss=14.249063, dev acc=0.7607, step=2625
+test acc=0.7693, test precision=0.7080, test recall=0.7252, test f1=0.6684
+smalltest acc=0.4286, test precision=0.1667, test recall=0.2500, test f1=0.2000
+max step:2, early stop step:1
+
+--------------------------------Mission Complete--------------------------------
+max acc_index:23
+test_acc: 0.7862,test_f1:0.6834
+min loss_index:21
+test_acc: 0.7524,test_f1:0.6538
